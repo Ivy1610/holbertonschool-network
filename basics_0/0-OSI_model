@@ -1,5 +1,2 @@
-#!/usr/bin/env bash
-# this script prints the correct answers for the OSI model question
-
-echo "2"
-echo "2"
+2
+2
