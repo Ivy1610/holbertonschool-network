@@ -66,7 +66,3 @@ What is the most important position in a software company?
 Project manager
 Backend developer
 System administrator
-sylvain@ubuntu$ cat foo_answer_file
-3
-sylvain@ubuntu$
-Source for question 1 here
