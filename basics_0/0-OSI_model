@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# The OSI model is a conceptual framework used to understand network communications. It divides network communication into seven layers. Each layer is responsible for a specific aspect of the communication. The OSI model is not a physical model, but a conceptual model that standardizes the functions of a telecommunication or computing system into seven abstraction layers.
+# OSI model
 
 2
 2
