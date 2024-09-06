@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# this script listens on port 98
+
+sudo nc -lk 127.0.0.1 98
