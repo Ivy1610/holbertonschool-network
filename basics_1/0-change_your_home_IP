@@ -18,3 +18,4 @@ ping -c 1 facebook.com
 
 
 echo "configuration complete. /etc/hosts file has been updated"
+
